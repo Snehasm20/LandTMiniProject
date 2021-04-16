@@ -2,7 +2,7 @@
 
 ## Use Case Diagram
 
-1[](https://github.com/Snehasm20/LandTMiniProject/blob/main/2_Design/use%20case%20diagram.jpg?raw=true)
+![](https://github.com/Snehasm20/LandTMiniProject/blob/main/2_Design/use%20case%20diagram.jpg?raw=true)
 
 
 ## Flow Chart 
