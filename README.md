@@ -5,4 +5,4 @@ A Library Management System is a software built to handle the primary housekeepi
 [![Code Quality - Static Code - Cppcheck](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/cpp_check.yml/badge.svg?branch=main)](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/cpp_check.yml)
 [![Contribution Check - Git Inspector](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/git_inspector.yml/badge.svg?branch=main)](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/git_inspector.yml)
 [![Unit testing -Unity](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/unit.yml/badge.svg?branch=main)](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/unit.yml)
-[![Unit testing -Unity](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/unit.yml/badge.svg?branch=main)](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/unit.yml)
+[![Valgrind](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/valgrind_check.yml/badge.svg?branch=main)](https://github.com/Snehasm20/LandTMiniProject/actions/workflows/valgrind_check.yml)
