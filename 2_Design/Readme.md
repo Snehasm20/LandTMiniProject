@@ -7,8 +7,8 @@
 
 ## Flow Chart 
 
-(https://github.com/Snehasm20/LandTMiniProject/blob/main/2_Design/flow%20chart.png?raw=true)
+![](https://github.com/Snehasm20/LandTMiniProject/blob/main/2_Design/flow%20chart.png?raw=true)
 
 ## Architechtural diagram
 
-(https://github.com/Snehasm20/LandTMiniProject/blob/main/2_Design/architechtural%20design.PNG?raw=true)
+![](https://github.com/Snehasm20/LandTMiniProject/blob/main/2_Design/architechtural%20design.PNG?raw=true)
