@@ -11,7 +11,7 @@ void tearDown(){}
 
 
 void test_enter_new_record(void){
-    TEST_ASSERT_EQUAL(pass,enter_new_record(900, "Wings of freedom"));
+    TEST_ASSERT_EQUAL(pass,enter_new_record(200, "Harry Potter"));
 }
 
 void test_view_all_records(void){
@@ -20,15 +20,15 @@ void test_view_all_records(void){
 
 void test_view_a_record(void){
     TEST_ASSERT_EQUAL(fail,view_a_record(-2));
-    TEST_ASSERT_EQUAL(pass,view_a_record(900));
+    TEST_ASSERT_EQUAL(pass,view_a_record(200));
 }
 
 void test_update_record(void){
-    TEST_ASSERT_EQUAL(pass,update_record(900, "issued", "21/01/21", "31/01/21", "Anupam","Gupta", 123));
+    TEST_ASSERT_EQUAL(pass,update_record(200, "issued", "12/03/21", "23/03/21", "Ram","Kumar", 123));
 }
 
 void test_delete_record(void){
-    TEST_ASSERT_EQUAL(pass,delete_record(900));
+    TEST_ASSERT_EQUAL(pass,delete_record(200));
 }
 
 int main(){
